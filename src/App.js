@@ -26,6 +26,7 @@ function App() {
             <Route path="/skills" element={<SkillsGrid/>}/>
             <Route path="/contact" element={<ContactMe/>}/>   
             <Route path="/events" element={<EventsList/>}/>
+            <Route path="*" element={<div> Page not found </div>}/>
             
         </Routes>
         <Footer></Footer>
