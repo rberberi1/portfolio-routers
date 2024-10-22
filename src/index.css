@@ -199,6 +199,7 @@ header nav ul li a:hover {
   margin-top: 4rem;
   border-top: #705c53 solid;
   border-bottom: #705c53 solid;
+  margin-bottom: 18rem;
   padding: 2rem;
 }
 
@@ -256,6 +257,7 @@ header nav ul li a:hover {
   padding: 2rem;
   text-align: center;
   border-bottom: #705c53 solid;
+  margin-bottom:3rem;
 }
 
 .skills-grid {
